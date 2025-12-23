@@ -4,7 +4,7 @@ IT Business Analyst | Data Analytics | BI & ETL
 
 ## Projects
 - Power BI Dashboards
-- POS Python Cleaning
+- Python Cleaning Scripts
 
 ## Contact
 - GitHub: https://github.com/eduardoanaya64
