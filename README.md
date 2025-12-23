@@ -1,12 +1,11 @@
 # Eduardo Anaya
 
-Business Analyst | Data Analytics | BI & ETL
+IT Business Analyst | Data Analytics | BI & ETL
 
 ## Projects
-- End-to-End Python ETL Pipeline
-- Power BI Sales Dashboard
-- SAP Analytics Cloud Forecasting
+- Power BI Dashboards
+- POS Python Cleaning
 
 ## Contact
 - GitHub: https://github.com/eduardoanaya64
-- LinkedIn: (add link)
+- LinkedIn: https://www.linkedin.com/in/eduardo-anayaa/
