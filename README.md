@@ -8,6 +8,10 @@ I’m a data-focused analyst with hands-on experience building dashboards, autom
 - Power BI Dashboards
 - Python Cleaning Scripts
 
+
+👉 [View My Projects](/projects/)  
+👉 [Download My Resume](./resume.pdf)
+
 ## Tech Stack
 
 **Languages:** Python, SQL  
