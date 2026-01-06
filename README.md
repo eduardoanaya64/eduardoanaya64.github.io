@@ -10,7 +10,7 @@ I’m a data-focused analyst with hands-on experience building dashboards, autom
 
 
 📄 [View Dashboard (PDF)](POS_Dashboard_Portfolio.pdf) 
-👉 [Download My Resume](./Eduardo_Anaya_Resume_122025.pdf)
+👉 [Download My Resume](./Eduardo_Anaya_Resume_2026.pdf)
 
 ## Tech Stack
 
