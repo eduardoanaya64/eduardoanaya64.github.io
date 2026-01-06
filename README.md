@@ -9,7 +9,7 @@ I’m a data-focused analyst with hands-on experience building dashboards, autom
 - Python Cleaning Scripts
 
 
-📄 [View Dashboard (PDF)](POS Dashboard Portfolio.pdf) 
+📄 [View Dashboard (PDF)](POS_Dashboard_Portfolio.pdf) 
 👉 [Download My Resume](./Eduardo_Anaya_Resume_122025.pdf)
 
 ## Tech Stack
