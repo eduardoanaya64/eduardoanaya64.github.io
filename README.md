@@ -9,7 +9,7 @@ I’m a data-focused analyst with hands-on experience building dashboards, autom
 - Python Cleaning Scripts
 
 
-📄 **[View Dashboard (PDF)](./POS_Dashboard - Portfolio.pdf)** 
+📄 [View Dashboard (PDF)](POS_Dashboard_Portfolio.pdf) 
 👉 [Download My Resume](./Eduardo_Anaya_Resume_122025.pdf)
 
 ## Tech Stack
@@ -25,5 +25,8 @@ I’m a data-focused analyst with hands-on experience building dashboards, autom
 **Tools:** GitHub, AI-assisted development tools
 
 ## Contact
-- GitHub: https://github.com/eduardoanaya64
-- LinkedIn: https://www.linkedin.com/in/eduardo-anayaa/
+- **LinkedIn:** [https://www.linkedin.com/in/eduardo-anayaa/](https://www.linkedin.com/in/eduardo-anayaa/)
+- **Phone:** [714-487-1438](tel:7144871438)
+- **Email:** [eduardoanaya64@gmail.com](mailto:eduardoanaya64@gmail.com)
+
+
