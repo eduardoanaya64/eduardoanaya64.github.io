@@ -103,14 +103,3 @@ projects/retail_excel_etl/
 ├── generator_fake_meijer_export.py
 ├── processor_fake_meijer_export.py
 └── images/
-
-
----
-
-## How to Run
-
-### 1. Generate Synthetic Raw Exports
-Creates fake vendor-style Excel files for testing.
-
-```bash
-python generator_fake_meijer_export.py
