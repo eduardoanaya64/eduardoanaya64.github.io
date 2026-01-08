@@ -49,4 +49,7 @@ Built interactive dashboards to analyze POS sales performance, year-over-year tr
 - **Phone:** [714-487-1438](tel:7144871438)
 - **Email:** [eduardoanaya64@gmail.com](mailto:eduardoanaya64@gmail.com)
 
+## Resume
+👉 [Download My Resume](./Eduardo_Anaya_Resume_2026.pdf)
+
 
