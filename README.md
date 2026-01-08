@@ -30,14 +30,7 @@ Built interactive dashboards to analyze POS sales performance, year-over-year tr
 
 ---
 
-### 🧹 Python Data Cleaning Scripts
 
-Developed Python scripts to automate Excel and CSV data preparation for analytics and ETL workflows.
-
-
-
-📄 [View Dashboard (PDF)](POS_Dashboard_Portfolio.pdf) 
-👉 [Download My Resume](./Eduardo_Anaya_Resume_2026.pdf)
 
 ## Tech Stack
 
