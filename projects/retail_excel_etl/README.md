@@ -2,7 +2,7 @@
 
 ## Overview
 This project demonstrates how a manual Excel cleanup and formatting process can be automated using Python.  
-The pipeline transforms raw, vendor-style Excel exports into clean, standardized, and analysis-ready workbooks suitable for downstream ETL and reporting.
+The pipeline transforms raw, vendor-style Excel exports into clean, standardized, and analysis-ready workbooks suitable for downstream ETL and reporting (Access DB into SAP Data Services and then loaded into SQL Server DB's).
 
 ⚠️ **All data in this project is synthetic.**  
 Column names, values, and files were intentionally fabricated to preserve confidentiality while maintaining realistic structure and complexity.
