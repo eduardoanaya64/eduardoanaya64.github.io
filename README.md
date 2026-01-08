@@ -5,8 +5,35 @@ IT Business Analyst | Data Analytics | BI & ETL
 I’m a data-focused analyst with hands-on experience building dashboards, automating data cleansing processes and delivering insights using Power BI, SQL, and Python.
 
 ## Projects
-- Power BI Dashboards
-- Python Cleaning Scripts
+
+### 🧮 Retail Sales Excel Standardization (Python ETL)
+
+Automated a manual Excel cleanup and standardization workflow for retail sales exports using Python.
+
+- Renamed and standardized Excel columns
+- Removed unused/internal fields
+- Cleaned empty and malformed rows
+- Enforced correct data types (dates, currency, quantities)
+- Applied consistent Excel formatting using openpyxl
+
+**Tech:** Python, Pandas, Excel  
+
+[View Project →](/projects/retail_excel_etl/)
+
+---
+
+### 📊 Power BI Dashboards
+
+Built interactive dashboards to analyze POS sales performance, year-over-year trends, and operational KPIs.
+
+📄 [View Dashboard (PDF)](POS_Dashboard_Portfolio.pdf)
+
+---
+
+### 🧹 Python Data Cleaning Scripts
+
+Developed Python scripts to automate Excel and CSV data preparation for analytics and ETL workflows.
+
 
 
 📄 [View Dashboard (PDF)](POS_Dashboard_Portfolio.pdf) 
