@@ -6,7 +6,7 @@ I’m a data-focused analyst with hands-on experience building dashboards, autom
 
 ## Projects
 
-🧮 Retail Sales Excel Standardization (Python ETL)
+### 🧮 Retail Sales Excel Standardization (Python ETL)
 ...
 [View Project →](https://github.com/eduardoanaya64/airflow-sales-pipeline)
 
