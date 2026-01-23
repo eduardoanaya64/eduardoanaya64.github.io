@@ -6,6 +6,26 @@ I’m a data-focused analyst with hands-on experience building dashboards, autom
 
 ## Projects
 
+🧮 Retail Sales Excel Standardization (Python ETL)
+...
+[View Project →](https://github.com/eduardoanaya64/airflow-sales-pipeline)
+
+---
+
+🚀 Apache Airflow Sales Data Pipeline  
+
+Built an end-to-end ETL pipeline using Apache Airflow, PostgreSQL, and Docker to ingest, transform, aggregate, and validate sales data across raw, staging, and mart layers.
+
+• Orchestrated multi-step workflow (raw → staging → mart) using PythonOperators  
+• Implemented daily incremental loads (idempotent design)  
+• Created staging layer with calculated fields (total_amount)  
+• Built a mart table with daily sales aggregates  
+• Added automated data quality checks (row counts, nulls, negative values)  
+• Containerized the entire stack using Docker Compose  
+• Visualized pipeline execution in Airflow UI  
+
+**Tech:** Python, Apache Airflow, PostgreSQL, Docker, SQL 
+
 ### 🧮 Retail Sales Excel Standardization (Python ETL)
 
 Automated a manual Excel cleanup and standardization workflow for retail sales exports using Python.
