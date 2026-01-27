@@ -54,7 +54,7 @@ Built interactive dashboards to analyze POS sales performance, year-over-year tr
 
 **Languages:** Python, SQL  
 
-**Analytics & BI:** Power BI, Tableau, SAP Analytics Cloud
+**Analytics & BI:** Power BI, Tableau, PostgreSQL, Apache Airflow, Docker
 
 **Data:** Excel, CSV, ETL Pipelines, SAP Data Services, Azure Data Factory, AWS Glue
 
