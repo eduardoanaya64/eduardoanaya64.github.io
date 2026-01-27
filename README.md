@@ -2,7 +2,7 @@
 
 IT Business Analyst | Data Analytics | BI & ETL
 
-I’m a data-focused analyst with hands-on experience building dashboards, automating data cleansing processes and delivering insights using Power BI, SQL, and Python.
+I’m a data-focused analyst with experience designing and orchestrating ETL pipelines, automating data cleansing workflows, and delivering analytics-ready datasets and dashboards using Power BI, SQL, Python, PostgreSQL, and Apache Airflow.
 
 ## Projects
 
