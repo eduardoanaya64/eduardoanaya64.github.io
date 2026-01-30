@@ -8,6 +8,24 @@ I’m a data-focused analyst with experience designing and orchestrating ETL pip
 
 ---
 
+### 📊 Retail POS Analytics Dashboard (Power BI)
+
+Built an interactive retail point-of-sale analytics dashboard using Power BI to analyze sales, profit, customer concentration, product performance, and regional trends across transactional data.
+
+• Designed multi-page interactive dashboard with KPI, trend, customer, product, and regional analysis views
+• Modeled POS data to support customer, material (SKU), geographic, and time-based slicing
+• Built calculated measures for sales, profit, margin, and period performance comparisons
+• Developed time-series visuals to analyze sales and profit trends across reporting periods
+• Created ranked customer and product views to identify top revenue and profit contributors
+• Implemented regional and state-level mapping visuals to highlight geographic performance patterns
+• Enabled dynamic filtering and drill-down using slicers and cross-visual interactions
+• Added natural-language Q&A visual to support self-serve business queries
+• Optimized dashboard layout and visual density for portfolio-style PDF export and presentation
+
+📄 [View Dashboard (PDF)](POS_Dashboard_Portfolio.pdf)
+
+---
+
 ### 🚀 Apache Airflow Sales Data Pipeline  
 
 [View Project →](https://github.com/eduardoanaya64/airflow-sales-pipeline)
@@ -40,13 +58,9 @@ Automated a manual Excel cleanup and standardization workflow for retail sales e
 
 ---
 
-### 📊 Power BI Dashboards
 
-Built interactive dashboards to analyze POS sales performance, year-over-year trends, and operational KPIs.
 
-📄 [View Dashboard (PDF)](POS_Dashboard_Portfolio.pdf)
 
----
 
 
 
