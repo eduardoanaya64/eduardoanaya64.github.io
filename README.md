@@ -33,18 +33,18 @@ Power BI
 
 ### Data Modeling Approach
 
-## Raw Layer
+### Raw Layer
 - Stores source-aligned data loaded directly from CSV files
 - No transformations applied
 - Serves as the system of record
 
-## Staging Layer
+### Staging Layer
 - Standardizes column naming and data types
 - Applies light transformations and casting
 - Creates consistent schemas across source systems
 - Implemented using dbt models with source references
 
-## Mart Layer
+### Mart Layer
 - FCT_REVENUE
   - Unified fact table combining POS and Billings revenue
   - Common grain across revenue channels
@@ -52,7 +52,7 @@ Power BI
   - Aggregated, reporting-ready table
   - Daily revenue and units by revenue channel
 
-## dbt Features Used
+### dbt Features Used
 - Sources (sources.yml) to define raw data contracts
 - Model references (ref) to enforce dependency order
   - Schema tests:
@@ -61,10 +61,10 @@ Power BI
 - dbt Cloud runs and builds
 - dbt Docs for model documentation and lineage visualization
 
-## Reporting & Consumption (Power BI)
+### Reporting & Consumption (Power BI)
 The mart models are designed to act as a semantic layer for BI tools.
 
-## Power BI Integration
+### Power BI Integration
 - Power BI connects directly to **Snowflake**
 - Import mode used for fast, responsive visuals
 - Primary dataset:
@@ -82,19 +82,19 @@ The mart models are designed to act as a semantic layer for BI tools.
   - Valid revenue channel values
 - Models validated using dbt build
 
-## Documentation & Lineage
+### Documentation & Lineage
 - dbt Docs generated and hosted in dbt Cloud
 - Full lineage graph from RAW → STAGING → MARTS
 - Model-level documentation and column descriptions included
 
-## Future Enhancements
+### Future Enhancements
 - Incremental models for large fact tables
 - Data freshness tests
 - Dimensional modeling (date, product, customer dimensions)
 - Scheduled Power BI refresh
 - Additional KPI dashboards
 
-## Why This Project
+### Why This Project
 This project mirrors a real-world analytics engineering workflow, emphasizing:
 - Clear separation of raw, staging, and mart layers
 - Test-driven transformations
