@@ -101,6 +101,9 @@ This project mirrors a real-world analytics engineering workflow, emphasizing:
 - Analytics-ready outputs
 - Scalable design for downstream BI tools
 
+🔗 [View Full Project on GitHub →](https://github.com/eduardoanaya64/snowflake-dbt-retail-analytics)
+
+
 ---
 
 ### 🚀 Apache Airflow Sales Data Pipeline  
