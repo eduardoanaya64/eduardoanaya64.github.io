@@ -98,8 +98,10 @@ Formatting is applied using **openpyxl** to ensure Excel compatibility.
 
 ## Repository Structure
 
+```
 projects/retail_excel_etl/
 ├── README.md
 ├── generator_fake_meijer_export.py
 ├── processor_fake_meijer_export.py
 └── images/
+```
