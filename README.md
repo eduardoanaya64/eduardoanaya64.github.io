@@ -17,6 +17,7 @@ This project demonstrates an end-to-end analytics engineering workflow using Sno
 
 The pipeline integrates Point-of-Sale (POS) transactions and Direct/Billings invoices into a unified revenue model designed for downstream reporting and analytics.
 
+```
 RAW (Snowflake)
  ├─ POS_TRANSACTIONS
  ├─ BILLINGS_INVOICES
@@ -30,6 +31,7 @@ MARTS (dbt)
  └─ RPT_DAILY_REVENUE
      ↓
 Power BI
+```
 
 ### Data Modeling Approach
 
