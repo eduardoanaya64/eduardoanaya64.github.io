@@ -165,7 +165,7 @@ Built an interactive retail point-of-sale analytics dashboard using Power BI to 
 
 **Languages:** Python, SQL  
 
-**Analytics & BI:** Power BI, Tableau, PostgreSQL, Apache Airflow, Docker
+**Analytics & BI:** Power BI, Tableau, PostgreSQL, Apache Airflow, Docker, Snowflake, dbt
 
 **Data:** Excel, CSV, ETL Pipelines, SAP Data Services, Azure Data Factory, AWS Glue
 
