@@ -101,7 +101,7 @@ This project mirrors a real-world analytics engineering workflow, emphasizing:
 - Analytics-ready outputs
 - Scalable design for downstream BI tools
 
-🔗 [View Full Project on GitHub →](https://github.com/eduardoanaya64/snowflake-dbt-retail-analytics)
+🔗 [View Project README →](https://github.com/eduardoanaya64/snowflake-dbt-retail-analytics/blob/main/README.md)
 
 
 ---
