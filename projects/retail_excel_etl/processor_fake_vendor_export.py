@@ -1,4 +1,4 @@
-# process_fake_meijer_export.py
+# process_fake_vendor_export.py
 import os
 import pandas as pd
 from datetime import datetime
@@ -132,3 +132,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
