@@ -1,4 +1,4 @@
-# generate_fake_meijer_export.py
+# generate_fake_vendor_export.py
 import os
 import random
 from datetime import datetime, timedelta
@@ -104,3 +104,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
